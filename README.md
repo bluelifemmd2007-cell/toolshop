@@ -6,8 +6,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-3.0+-000000?style=flat-square&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
-[![RTL](https://img.shields.io/badge/رابط_کاربری-فارسی_و_RTL-orange?style=flat-square)]()
-[![License](https://img.shields.io/badge/مجوز-MIT-green?style=flat-square)]()
 
 > از دریل بوش تا کمپرسور باد — هر ابزاری که برای پروژه‌ات لازم داری، اینجاست.
 
